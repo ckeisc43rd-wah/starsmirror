@@ -1,1 +1,1 @@
-yoyo is gay
+try discord bot with discord.py
